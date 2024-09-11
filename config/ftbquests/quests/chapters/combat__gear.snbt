@@ -2543,15 +2543,15 @@
 			}]
 			shape: "hexagon"
 			tasks: [{
-				id: "1E21A1911715690C"
+				id: "259C623B3B201943"
 				item: {
 					Count: 1b
 					id: "itemfilters:tag"
 					tag: {
-						value: "chimes:bamboo_chimes"
+						value: "forge:wind_chimes"
 					}
 				}
-				title: "Any #chimes:bamboo_chimes"
+				title: "Any #forge:wind_chimes"
 				type: "item"
 			}]
 			title: "Obtain Wind Chimes"

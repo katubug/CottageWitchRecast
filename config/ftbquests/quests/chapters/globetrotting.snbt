@@ -215,7 +215,8 @@
 		{
 			description: [
 				"To find the &cLabyrinth of the Serpent&r, you must purchase a map from a Villager."
-				"Beware, though. Within lie many dangers, and even a final boss!"
+				""
+				"But &ddon't be in a hurry to go in there&r. There are many dangers lurking inside. And at the end, an incredibly strong and ferocious monster awaits to wipe the pesky intruders from the face of the earth."
 			]
 			id: "4A83D94AEF11125B"
 			rewards: [
@@ -489,7 +490,7 @@
 			y: 6.5d
 		}
 		{
-			description: ["The &bCastle&r is home to several friendly &eVillagers&r, and their ruler sits atop a throne of stone."]
+			description: ["The &cCastle&r is home to several friendly &eVillagers&r, and their ruler sits atop a throne of stone."]
 			id: "2990F79A11CD8ED8"
 			rewards: [{
 				id: "172A391FB810A202"
@@ -699,7 +700,8 @@
 		{
 			description: [
 				"&bWaystones&r are a method for fast travel between places in the world. Once a Waystone has been &aactivated&r, it can be ported to from any other Waystone, or using other methods."
-				"&bWaystones&r generate naturally in &dVillages&r, but they can also be crafted."
+				""
+				"&bWaystones&r generate naturally in &cVillages&r, but they can also be crafted."
 			]
 			id: "722C9A16509E524B"
 			rewards: [

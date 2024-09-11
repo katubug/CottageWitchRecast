@@ -24,7 +24,9 @@
 		{
 			description: [
 				"You've obtained some &bseeds&r, congratulations! The first step of becoming a successful farmer is to have something to plant."
+				""
 				"As a reward, try this &bRich Soil&r. It can be crafted from &bOrganic Compost&r, and is great for planting crops on!"
+				""
 				"It will &aperiodically grant a growth boost&r to crops (when it's provided with water) and it &acannot be trampled&r. It &acan also be used to grow &bMushroom Colonies&r in complete darkness."
 			]
 			id: "4930ECD60EA9ED8D"
@@ -206,7 +208,7 @@
 		}
 		{
 			dependencies: ["2CA80140F624D0AE"]
-			description: ["Crops can be easily compacted into Bags or Crates in order to &asave on storage space&r. &6Place 9 of each material in a Crafting Grid&r to obtain a Crate or Bag of it!"]
+			description: ["Crops can be easily compacted into Bags or Crates in order to &asave on storage space&r. &6Place 9 of each crop in a Crafting Grid&r to obtain a Crate or Bag of it!"]
 			id: "0545DF70043D964A"
 			rewards: [
 				{
@@ -307,7 +309,7 @@
 		}
 		{
 			dependencies: ["4930ECD60EA9ED8D"]
-			description: ["Farmer's Delight adds 4 new crops: &bTomato&r, &bRice&r, &bCabbage&r, and &bOnion&r. Wild versions of these can be found while exploring, and then you can plant them in your garden at home!"]
+			description: ["&lFarmer's Delight&r adds 4 new crops: &bTomato&r, &bRice&r, &bCabbage&r, and &bOnion&r. Wild versions of these can be found while exploring, and then you can plant them in your garden at home!"]
 			id: "2CA80140F624D0AE"
 			rewards: [
 				{
@@ -820,7 +822,7 @@
 		{
 			dependencies: ["4930ECD60EA9ED8D"]
 			description: [
-				"There's a way to &agrow crops more quickly!&r. If you &6craft some compost&r and then &6place it near a water source&r, it will slowly turn into &bRich Soil&r. This process can be &asped up using &bTime in a Bottle&r."
+				"There's a way to &agrow crops more quickly&r. If you &6craft some compost&r and then &6place it near a water source&r, it will slowly turn into &bRich Soil&r. This process can be &asped up using &bTime in a Bottle&r."
 				""
 				"Once tilled, &bRich Soil&r will &agrant extra growth&r ticks to your plants. It also &acannot be trampled&r, and &adoes not require water&r."
 				""

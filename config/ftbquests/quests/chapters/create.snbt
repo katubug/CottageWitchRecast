@@ -262,7 +262,7 @@
 			description: [
 				"Another power option is &bStarbuncle Wheels&r. It turns out that the industry of the &eStarbuncle&r goes beyond collecting and transferring items - they &alove to run&r."
 				""
-				"Give them a &awheel to run around in&r, and they will reliably generate you &d256 su&r. Put a &bGold Block&r &6in front of the wheel&r and they’ll generate &d320 su&r instead!"
+				"Give them a &awheel to run around in&r, and they will reliably generate you &d256 su&r. Put a &bGold Block&r &6in front of the wheel&r and they’ll generate &d384 su&r instead!"
 			]
 			id: "4E3C2382B7035B7D"
 			rewards: [
@@ -1040,7 +1040,7 @@
 			subtitle: "blaze it"
 			tasks: [{
 				consume_items: true
-				count: 100L
+				count: 1000L
 				id: "28EADC0EBE7B1BCD"
 				item: "create:blaze_cake"
 				type: "item"

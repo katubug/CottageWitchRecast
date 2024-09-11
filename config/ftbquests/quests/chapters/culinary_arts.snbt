@@ -165,7 +165,12 @@
 			dependencies: ["644439D23D454629"]
 			description: [
 				"&bTea&r is a small bush which can be grown on farmland in order to produce &btea leaves&r, which can be brewed into &btea&r. Let me say &btea&r some more. &bTea&r."
+				""
 				"You'll need a &bkettle&r to brew it, which is made with some &bleather&r, a &bbucket&r, and &bcopper&r."
+				""
+				"You can find &bWild Tea Bushes&r in &cSwamps&r. To obtain different kinds of tea, &6allow the bush to continue growing&r until it changes color. This will allow you to gather &byellow&r and &bblack&r tea leaves!"
+				""
+				"You cannot grow tea on &bFarmland&r, it must be planted on grass."
 			]
 			id: "1266B799DAB9CCC7"
 			rewards: [
@@ -549,7 +554,7 @@
 			y: -3.5d
 		}
 		{
-			description: ["&bPropelplants&r can be found in the Nether. They look similar to Bamboo, but are black in color, with glowing globules at the top. &dBe careful when harvesting them&r! You'll need &bShears&r to obtain the &bPropelpearls&r."]
+			description: ["&bPropelplants&r can be found in the Nether. They look similar to Sugar Cane, but are black in color, with glowing globules at the top. &dBe careful when harvesting them&r! You can harvest them by hand, but best practice is to use &bShears&r."]
 			id: "76BB908C21246B36"
 			rewards: [{
 				count: 5
@@ -1031,8 +1036,8 @@
 				item: "delightful:smore"
 				type: "item"
 			}]
-			x: -4.0d
-			y: 4.0d
+			x: -1.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["6EFFB8ED37DC8A47"]
@@ -1195,7 +1200,11 @@
 		}
 		{
 			dependencies: ["2615CD06E32EC741"]
-			description: ["The &bSkillet&r allows you to cook on the go! Simply &6stand near a heat source&r and &6add your ingredients&r!"]
+			description: [
+				"The &bSkillet&r allows you to cook on the go! Either &6place it on a heat source with shift+right click&r and cook with it as though it were a &bSmoker&r, or &6wield it as a weapon&r."
+				""
+				"It can be &aimbued with certain weapon enchantments&r - for example, &bFire Aspect&r will decrease cooking time."
+			]
 			id: "7E532A89B21B20D1"
 			rewards: [{
 				id: "62A1E505361F41BF"
@@ -1240,7 +1249,7 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["717B733896BBB2AA"]
+			dependencies: ["6EFFB8ED37DC8A47"]
 			description: ["Vegetarian? No worries, we got you covered! Why not make some delicious &avegetarian dishes?&r"]
 			id: "181F5C00C8DE417B"
 			rewards: [
@@ -1271,7 +1280,7 @@
 			]
 			title: "Delicious Veggies"
 			x: -4.0d
-			y: 5.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["5F2C26D1C6302016"]
@@ -1882,6 +1891,7 @@
 				"Good things come at a cost, I guess!"
 			]
 			id: "15CAD3A9477E400B"
+			progression_mode: "linear"
 			rewards: [{
 				count: 10
 				id: "3DEF6364740AC91D"

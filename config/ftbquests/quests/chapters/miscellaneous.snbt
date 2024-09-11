@@ -52,26 +52,20 @@
 				"You can send letters and packages to your friends! You can &asend and receive mail&r using a &bSnailbox&r. Placing it down claims it, and you can even give it a name by &6right clicking on it&r and entering text in the name field."
 				""
 				"For more information, &6please click to the next page&r."
-				""
 				"{@pagebreak}"
-				""
 				"To &asend mail&r, you'll need a &bStamp&r and an &bOpen Envelope&r. These envelopes can be reused, so they're good for the environment. &6Place the Envelope in the upper right of the &bSnailbox&r. Then click &6\"Open Envelope&r.\""
 				""
 				"{image:cottagewitch:textures/snailmail1.png width:210 height:275 align:1}"
-				""
 				"{@pagebreak}"
-				""
 				"In here, you can put your mail! You can send &bphotos, items, and more&r! To include a message, use a &bBook and Quill&r. &aDon't forget to add a Stamp&r! Enter the name of the recipient, your name if desired, and then &6Hit Esc to go back to the previous window&r!"
 				""
 				"{image:cottagewitch:textures/snailmail2.png width:250 height:200 align:1}"
-				""
 				"{@pagebreak}"
-				""
 				"Once you've hit &dEsc&r, you can &aselect the Snailbox to send to&r, and ta-da! You're done!"
 				""
-				"{image:cottagewitch:textures/snailmail3.png width:250 height:80 align:1}"
+				"{image:cottagewitch:textures/snailmail3.png width:250 height:75 align:1}"
 				""
-				"{image:cottagewitch:textures/snailmail4.png width:250 height:150 align:1}"
+				"{image:cottagewitch:textures/snailmail4.png width:250 height:140 align:1}"
 			]
 			id: "476D80268DFAFC7A"
 			min_width: 300
@@ -1324,9 +1318,9 @@
 			description: [
 				"Those who experiment with altering their states may find themselves in quite the situation, not entirely knowing how they arrived at this conclusion."
 				""
-				"This achievement involves getting &aevery vanilla effect&r at once, as well as the modded effects, such as (this list may be incomplete):"
+				"This achievement involves getting &aevery vanilla potion&r at once, as well as the modded effects, such as (this list may be incomplete):"
 				""
-				"Panic, Serenity (both Environmental), Health Boost, Resilience (both Quark)."
+				"Repellance, Vibing (Upgrade Aquatic), Resilience (Quark), Health Boost (Enviromental)"
 			]
 			id: "3B84722A9CD28821"
 			rewards: [
@@ -1345,16 +1339,9 @@
 			]
 			shape: "octagon"
 			tasks: [{
-				advancement: "minecraft:nether/all_effects"
+				advancement: "minecraft:nether/all_potions"
 				criterion: ""
-				icon: {
-					Count: 1b
-					id: "minecraft:potion"
-					tag: {
-						Potion: "minecraft:leaping"
-					}
-				}
-				id: "3A8AB0F1F2EAB075"
+				id: "0E61460998F96BC2"
 				type: "advancement"
 			}]
 			x: 3.5d
@@ -1553,9 +1540,7 @@
 				"You, too, can &acapture photos with a camera&r! &6Right click&r while holding the &bCamera&r to enter the photo mode. While in photo mode, &6scroll in and out to zoom&r. To take a photo, &6right click again&r. &dThis consumes paper&r and provides you with photos! &dThere is also a cooldown before you can take another picture&r."
 				""
 				"Continued on next page."
-				""
 				"{@pagebreak}"
-				""
 				"The &bPhotos&r can either be hung in an &bImage Frame&r, or added to an &bAlbum&r."
 				""
 				"To open the Album, &6shift click&r and place photos inside. &6Right click holding the Album&r to view the photos, and &6scroll to change photos&r. You can also &aplace them in &bLecterns&r!"

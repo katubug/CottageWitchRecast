@@ -661,7 +661,8 @@
 		}
 		{
 			description: [
-				"To begin with the furniture in &lHandcrafted&r, you'll likely need some &bWooden Boards&r. These can be easily obtained by &6throwing planks on a &bSawmill&r."
+				"To begin with the furniture in &lHandcrafted&r, you'll likely need some &bWooden Boards&r. These can be easily obtained by &6putting &bPlanks&r in a &bStonecutter&r. Or, craft them using the &lCreate&r &bSaw&r."
+				""
 				"You can &6right click the &bHammer&r on Handcrafted blocks to &achange their appearance&r."
 			]
 			id: "7D82FBD000D41F84"
@@ -810,9 +811,7 @@
 		{
 			description: [
 				"The &lChipped&r mod offers over 500 new block variants to decorate with. These can be obtained from &avarious stations&r that the mod adds. On the following pages of this quest, you will find each station along with a &alist of what blocks they accept&r. You can also look up the recipes in &lJEI&r."
-				""
 				"{@pagebreak}"
-				""
 				"The &bAlchemy Bench&r works with the following blocks:"
 				""
 				"{image:cottagewitch:textures/alchemybench.png width:100 height:100 align:1 fit:true}"
@@ -824,7 +823,6 @@
 				"The &bGlassblower&r works with the following blocks:"
 				""
 				"{image:cottagewitch:textures/glassblower.png width:100 height:100 align:1 fit:true}"
-				""
 				"{@pagebreak}"
 				"The &bLoom Table&r works with the following blocks:"
 				""
