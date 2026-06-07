@@ -634,7 +634,7 @@
 			description: [
 				"Have you &aautomated your farm&r? Then you probably know the pain of excessive crop ownership. &6Submit your crops to this quest&r to earn rewards."
 				""
-				"[Repeatable Quest]"
+				"&dThis quest is repeatable&r."
 			]
 			id: "6630D27FC9E3F285"
 			rewards: [
